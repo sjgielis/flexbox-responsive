@@ -63,7 +63,7 @@
     flex-grow: 1;
   }
 
-  header nav a:hover footer .links a:hover{
+  header nav a:hover, footer .links a:hover{
     background-color: #e74c3c;
   }
 
